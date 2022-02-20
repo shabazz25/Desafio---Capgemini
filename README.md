@@ -1,5 +1,10 @@
 # Desafio---Capgemini
 
+Manual de execução de algoritimos para o processo seletivo da Academia Técnica Capgemini 2022.
+Autor: André Pereira Pinheiro
+
+Todos os projetos foram executados ultilizando Html, Css e Javacript.
+
 Algoritimo Escada, pode ser executado abrindo o arquivo index.html direto no navegador e pressionando F12 para visualizar resultado no console do browser.
 Possui dois arquivos, script.js e index.html, o número de degraus deve ser passado direto como parametro da função no script.js.
 
