@@ -3,16 +3,16 @@
 URLs para rodar os algoritimos
 
 1-Validação de senhas
-https://shabazz25.github.io/Desafio---Capgemini/Verifica_Senha/
+https://shabazz25.github.io/Desafios-Javascript/Verifica_Senha/
 
 2-Teste de anagramas
-https://shabazz25.github.io/Desafio---Capgemini/Teste_Anagrama/
+https://shabazz25.github.io/Desafios-Javascript/Teste_Anagrama/
 
 3-Escada de * em javascript
-https://shabazz25.github.io/Desafio---Capgemini/Escada_Javacript/
+https://shabazz25.github.io/Desafios-Javascript/Escada_Javacript/
 
 
-Manual de execução de algoritimos para o processo seletivo da Academia Técnica Capgemini 2022.
+
 Autor: André Pereira Pinheiro
 
 Todos os projetos foram executados ultilizando Html, Css e Javacript.
